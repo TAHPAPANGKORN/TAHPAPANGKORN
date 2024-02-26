@@ -1,7 +1,7 @@
-<h2 align="center"> <p>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Papangkorn Pitjawong</p></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Papangkorn Pitjawong
 ============================================================================================================================================
 
-<h3 align="center">Student of Burapha University com-sci major</h3>
+Student of Burapha University com-sci major
 -------------------------------------------
 
 * 🌍  I'm based in Thailand
