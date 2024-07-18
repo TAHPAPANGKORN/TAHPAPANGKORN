@@ -5,7 +5,7 @@ Student of Burapha University com-sci major
 -------------------------------------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thtahzach@gmail.com](mailto:thtahzach@gmail.com )
+* ✉️  You can contact me at [thtahzach@gmail.com](mailto:thtahzach@gmail.com ),  [67160072@buu.ac.th](mailto:67160072@buu.ac.th )
 
 ### Skills
 
