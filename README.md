@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, My name is Papangkorn Pitjawong</h1>
-<h3 align="center">Student of Burapha University, Computer Science Major</h3>
+<h1 align="left">Hi 👋, My name is Papangkorn Pitjawong</h1>
+<h3 align="left">Student of Burapha University, Computer Science Major</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=tahpapangkorn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/users/yahya5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="40" alt="Discord">
   </a>
 </p>
 
