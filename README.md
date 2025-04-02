@@ -7,7 +7,7 @@
 
 
 
-- 🌱 **I’m currently learning:** Java  
+- 🌱 **I’m currently learning:** Next.js 
 - 👨‍💻 **All of my projects are available at:** [port-papangkorn.vercel.app](https://port-papangkorn.vercel.app/), [papangkorn-profile.pages.dev](https://papangkorn-profile.pages.dev/)  
 - 🌍 **Location:** Thailand  
 - ✉️ **Contact me at:**  
