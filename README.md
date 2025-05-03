@@ -11,8 +11,8 @@
 - 👨‍💻 **All of my projects are available at:** [port-papangkorn.vercel.app](https://port-papangkorn.vercel.app/), [papangkorn-profile.pages.dev](https://papangkorn-profile.pages.dev/)  
 - 🌍 **Location:** Thailand  
 - ✉️ **Contact me at:**  
-  - [thtahzach@gmail.com](mailto:thtahzach@gmail.com)  
-  - [67160072@buu.ac.th](mailto:67160072@buu.ac.th)  
+  - [papangkorn.pitjawong.work@gmail.com](mailto:papangkorn.pitjawong.work@gmail.com)  
+  - [papangkorn.personal@gamil.com](mailto:papangkorn.personal@gamil.com)  
 - ⌨️ **Currently in development** [the-chameleon-game](https://github.com/JatenipatChanapisitthi/the-chameleon-game)
 
 
