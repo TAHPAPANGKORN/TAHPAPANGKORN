@@ -8,7 +8,7 @@
 
 
 - 🌱 **I’m currently learning:** Next.js 
-- 👨‍💻 **All of my projects are available at:** [port-papangkorn.vercel.app](https://port-papangkorn.vercel.app/), [papangkorn-profile.pages.dev](https://papangkorn-profile.pages.dev/)  
+- 👨‍💻 **All of my projects are available at:** [papangkorn.me](https://papangkorn.me), [papangkorn-profile.pages.dev](https://papangkorn-profile.pages.dev/)  
 - 🌍 **Location:** Thailand  
 - ✉️ **Contact me at:**  
   - [papangkorn.pitjawong.work@gmail.com](mailto:papangkorn.pitjawong.work@gmail.com)  
