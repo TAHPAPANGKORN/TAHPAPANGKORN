@@ -13,7 +13,7 @@
 - ✉️ **Contact me at:**  
   - [papangkorn.pitjawong.work@gmail.com](mailto:papangkorn.pitjawong.work@gmail.com)  
   - [papangkorn.personal@gamil.com](mailto:papangkorn.personal@gamil.com)  
-- ⌨️ **Currently in development** [Real-or-Fake-game](https://github.com/JatenipatChanapisitthi/Real-or-FaKe-game)
+- ⌨️ **Currently in development** [Real-or-Fake-game](https://github.com/JatenipatChanapisitthi/Real-or-FaKe-game), [ifCheckShirt](https://github.com/FTGFLabs/checkShirtForInformatics), [adminDashboardIfCheckShirt](https://github.com/FTGFLabs/shirtAdminDashboard)
 
 
 <h3 align="left">Connect with me:</h3>
