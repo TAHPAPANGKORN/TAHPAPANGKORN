@@ -21,7 +21,7 @@
 
 ### Contribution Graph (GitHub + GitLab)
 <p align="center">
-  <a href="https://gitcombrigde.vercel.app" target="_blank">
+  <a href="https://gitcombrigde.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=light" alt="GitComBridge" />
   </a>
 </p>
