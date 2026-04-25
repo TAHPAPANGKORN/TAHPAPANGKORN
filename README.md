@@ -21,7 +21,7 @@
 
 ### 🚀 Unified Contribution Graph (GitHub + GitLab)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TAHPAPANGKORN/githubGitlabGraph/main/contribution-graph.svg" alt="Unified Contribution Graph" />
+  <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=light" alt="GitComBridge Unified Graph" />
 </p>
 
 ---
