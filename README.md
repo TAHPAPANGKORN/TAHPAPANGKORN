@@ -42,36 +42,28 @@
 <div align="left">
 
 **Languages**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
+[![Languages](https://skillicons.dev/icons?i=java,js,python,ts,php,html,css)](https://skillicons.dev)
 
-<br>
-
-**Frameworks & Libraries**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="Nest.js" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" />
-
-<br>
+**Frontend & Frameworks**<br>
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwindcss,vite,figma)](https://skillicons.dev)
 
 **Backend & Databases**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="30" height="30" />
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,supabase,discordjs)](https://skillicons.dev)
 
-<br>
-
-**Tools & DevOps**<br>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
+**DevOps & Tools**<br>
+[![Tools](https://skillicons.dev/icons?i=docker,ubuntu,github,gitlab,nginx,arduino,vercel)](https://skillicons.dev)
 
 </div>
 
----
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tahpapangkorn&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahpapangkorn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<details>
+  <summary> 📊 GitHub Insights </summary>
 
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=tahpapangkorn&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  ![](https://github-profile-trophy.vercel.app/?username=tahpapangkorn&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-readme-stats.vercel.app/api?username=tahpapangkorn&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=tahpapangkorn&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=tahpapangkorn&limit=5&combine_all_yearly_contributions=true)
+
+</details>
 
 ---
 
