@@ -19,11 +19,12 @@
 
 ---
 
-### 🚀 Unified Contribution Graph (GitHub + GitLab)
+### Contribution Graph (GitHub + GitLab)
 <p align="center">
-  <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=light" alt="GitComBridge Unified Graph" />
+  <a href="https://gitcombrigde.vercel.app">
+    <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=light" alt="GitComBridge" />
+  </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
