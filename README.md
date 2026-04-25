@@ -67,8 +67,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tahpapngkorn">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a brain&emoji=🧠&slug=tahpapngkorn&button_colour=ffdcea&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" />
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tahpapangkorn">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
   </a>
-</p>
+</div>
