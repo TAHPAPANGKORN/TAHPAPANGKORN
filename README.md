@@ -31,11 +31,14 @@
 ### 👨‍💻 About Me
 - 🌱 **Learning:** Next.js & TypeScript
 - 🌍 **Location:** Thailand
-- 🔗 **Portfolio:** [papangkorn.info](https://papangkorn.info) | [papangkorn-profile.pages.dev](https://papangkorn-profile.pages.dev/)
+- 🔗 **Portfolio:** [papangkorn.info](https://papangkorn.info)
 - ⌨️ **In Development:** 
-  - [Real-or-Fake-game](https://github.com/JatenipatChanapisitthi/Real-or-FaKe-game)
-  - [ifCheckShirt](https://github.com/FTGFLabs/checkShirtForInformatics)
-  - [adminDashboardIfCheckShirt](https://github.com/FTGFLabs/shirtAdminDashboard)
+  |  | GitHub | DEMO |
+  | :--- | :--- | :--- |
+  | **Real-or-Fake-game** | [GitHub](https://github.com/JatenipatChanapisitthi/Real-or-FaKe-game) | [DEMO](https://www.realorfake.games) |
+  | **ifCheckShirt** | [GitHub](https://github.com/FTGFLabs/checkShirtForInformatics) | [DEMO](https://ifcheckshirt.vercel.app) |
+  | **adminDashboardIfCheckShirt** | [GitHub](https://github.com/FTGFLabs/shirtAdminDashboard) | - |
+  | **GitComBrigde** | [GitHub](https://github.com/TAHPAPANGKORN/GitComBridge) | [DEMO](https://gitcombrigde.vercel.app) |
 
 ---
 
