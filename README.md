@@ -22,7 +22,7 @@
 ### Contribution Graph (GitHub + GitLab)
 <p align="center">
   <a href="https://gitcombrigde.vercel.app">
-    <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=monokai&cellSize=L&animation=wave&t=1777276010669" alt="GitComBridge" />
+    <img src="https://gitcombrigde.vercel.app/api/graph/Papangkorn%20P.?theme=monokai&cellSize=L&animation=wave&t=1777279334110" alt="GitComBridge" />
   </a>
 </p>
 
