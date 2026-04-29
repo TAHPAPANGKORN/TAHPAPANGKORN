@@ -53,7 +53,7 @@
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwindcss,vite,figma)](https://skillicons.dev)
 
 **Backend & Databases**<br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,supabase,discordjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,sqlite,supabase,prisma,discordjs)](https://skillicons.dev)
 
 **DevOps & Tools**<br>
 [![Tools](https://skillicons.dev/icons?i=docker,ubuntu,github,gitlab,nginx,arduino,vercel)](https://skillicons.dev)
