@@ -52,7 +52,7 @@
 **Frontend & Frameworks**<br>
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwindcss,vite,pinia,figma)](https://skillicons.dev)
 
-**Backend*<br>
+**Backend**<br>
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,discordjs)](https://skillicons.dev)
 
 **Databases**<br>
