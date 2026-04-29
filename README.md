@@ -50,14 +50,19 @@
 [![Languages](https://skillicons.dev/icons?i=java,js,python,ts,php,html,css)](https://skillicons.dev)
 
 **Frontend & Frameworks**<br>
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwindcss,vite,figma)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwindcss,vite,pinia,figma)](https://skillicons.dev)
 
-**Backend & Databases**<br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,sqlite,supabase,prisma,discordjs)](https://skillicons.dev)
+**Backend*<br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,discordjs)](https://skillicons.dev)
+
+**Databases**<br>
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,supabase,prisma,typeorm)](https://skillicons.dev)
 
 **DevOps & Tools**<br>
 [![Tools](https://skillicons.dev/icons?i=docker,ubuntu,github,gitlab,nginx,arduino,vercel)](https://skillicons.dev)
 
+**IDE**<br>
+[![Ide](https://skillicons.dev/icons?i=vim,neovim,vscode)](https://skillions.dev)
 </div>
 
 
