@@ -38,7 +38,7 @@
   | **Real-or-Fake-game** | [GitHub](https://github.com/JatenipatChanapisitthi/Real-or-FaKe-game) | [DEMO](https://www.realorfake.games) |
   | **ifCheckShirt** | [GitHub](https://github.com/FTGFLabs/checkShirtForInformatics) | [DEMO](https://ifcheckshirt.vercel.app) |
   | **adminDashboardIfCheckShirt** | [GitHub](https://github.com/FTGFLabs/shirtAdminDashboard) | - |
-  | **GitComBrigde** | [GitHub](https://github.com/TAHPAPANGKORN/GitComBridge) | [DEMO](https://gitcombrigde.vercel.app) |
+  | **GitComBrigde** | [GitHub](https://github.com/TAHPAPANGKORN/GitComBridge) | [DEMO](https://gitcombridge.vercel.app) |
 
 ---
 
